@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: helyx
+Version: 1.0.0
+Summary: Helyx is meant to be a automation tool for Cisco Devices.
+Home-page: https://github.com/hfeixas/Helyx.git
+Author: Helder Feixas
+Author-email: helder
+License: UNKNOWN
+Description: # Helyx
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Pre-processors
+Classifier: Topic :: System :: Systems Administration
+Provides-Extra: dev

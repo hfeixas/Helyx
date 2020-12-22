@@ -1,0 +1,17 @@
+schematics<3.0,>=2.0
+six<2,>=1.11
+jinja2
+netmiko==3.2.0
+ansible-vault==1.2.0
+colorlog
+
+[dev]
+pytest-mock
+codecov
+pytest-cov
+
+[dev:python_version <= "2.7"]
+pytest<4.7,>=4.6
+
+[dev:python_version > "3"]
+pytest<6,>=5.0

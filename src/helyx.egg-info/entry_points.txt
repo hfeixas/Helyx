@@ -1,0 +1,3 @@
+[console_scripts]
+helyx = helyx.cli:main
+
