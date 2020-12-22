@@ -7,7 +7,7 @@ Helix is a Python library for for quickly delivering Jinja templated "playbooks"
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install helyx.
 
 ```bash
-pip3 install https://github.com/hfeixas/Helyx.git
+python3 -m pip install git+https://github.com/hfeixas/Helyx.git
 ```
 
 ## Structure
